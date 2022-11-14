@@ -1,0 +1,21 @@
+{
+  "name": "us-pluginext-pack",
+  "displayName": "us-plugin-extensibility",
+  "description": "Initializing a plugin extensibility for VSCode (Visual Studio Code).",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "publisher.extensionName",
+    "shan.code-settings-sync",
+    "ms-ceintl.vscode-language-pack-es",
+    "alefragnani.project-manager",
+    "alefragnani.bookmarks",
+    "shardulm94.trailing-spaces",
+    "aaron-bond.better-comments"
+  ]
+}
